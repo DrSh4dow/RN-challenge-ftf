@@ -16,7 +16,7 @@ https://github.com/reddit/reddit/wiki/JSON
 
 - Show a list of the posts in the r/pics subreddit
 - Each post must show the following data: thumbnail image (if present), title, author, total number of votes (score), number of comments and date of creation
-- Example layout (basic example):
+- Example layout (basic example - no need to follow it exactly)
 
   ![](showcase.gif)
 
@@ -35,12 +35,11 @@ https://github.com/reddit/reddit/wiki/JSON
 
 - Unit tests
 - Date of creation in a relative format (e.g. “1 day ago”)
-- Ability to sort the posts list (“top”, “new”, “hot” or “controversial”)
 - Data caching
 
 ## Notes:
 
-- You can use [expo-cli](https://expo.io/learn) to bootstrap your app but **we highly recommend** using [React Native bare](https://reactnative.dev/docs/environment-setup). Keep in mind that the app must be easily executable.
-- Send us your code in a github repo.
+- feel free to use an online emulation environment like [snack expo](https://snack.expo.dev/@aboutreact/online-emulator-by-aboutreact?session_id=snack-session-izmjLQumT)
+- Send us your code either in a GitHub Repository, zip file with the project, or any other way you feel comfortable with.
 
 Good luck!
