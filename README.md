@@ -1,4 +1,4 @@
-# React Native Coding Challenge
+# RN-challenge-ftf
 
 In this challenge you're going to create a basic Reddit app with React Native
 
@@ -10,17 +10,18 @@ To obtain the list of posts of a subreddit use the following URL:
 https://api.reddit.com/r/pics/hot.json
 
 For more information about the JSON structure see:
-https://github.com/reddit/reddit/wiki/JSON 
+https://github.com/reddit/reddit/wiki/JSON
 
 ## Requirements:
 
-* Show a list of the posts in the r/pics subreddit
-* Each post must show the following data: thumbnail image (if present), title, author, total number of votes (score), number of comments and date of creation
-* Example layout (basic example):
+- Show a list of the posts in the r/pics subreddit
+- Each post must show the following data: thumbnail image (if present), title, author, total number of votes (score), number of comments and date of creation
+- Example layout (basic example):
 
   ![](showcase.gif)
-* Once the user taps on a post navigate to the post’s URL in a WebView
-* A brief explanation of your design and assumptions along with your code.
+
+- Once the user taps on a post navigate to the post’s URL in a WebView
+- A brief explanation of your design and assumptions along with your code.
 
 ## What will we evaluate?
 
@@ -39,8 +40,7 @@ https://github.com/reddit/reddit/wiki/JSON
 
 ## Notes:
 
-* You can use [expo-cli](https://expo.io/learn) to bootstrap your app but **we highly recommend** using [React Native bare](https://reactnative.dev/docs/environment-setup). Keep in mind that the app must be easily executable.
-* Send us your code in a github repo.
+- You can use [expo-cli](https://expo.io/learn) to bootstrap your app but **we highly recommend** using [React Native bare](https://reactnative.dev/docs/environment-setup). Keep in mind that the app must be easily executable.
+- Send us your code in a github repo.
 
 Good luck!
-# RN-challenge-ftf
